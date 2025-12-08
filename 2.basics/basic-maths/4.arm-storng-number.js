@@ -30,4 +30,4 @@ function checkArmStrong(nums) {
 }
 
 console.log(checkArmStrong(153));
-console.log(checkArmStrong(1234));
+console.log(checkArmStrong(1234)); ``
